@@ -6,3 +6,6 @@ This is Pasta.
 This is Chicken Fry.
 
 Thanks.
+
+This is Bean.
+This is Pizza.
