@@ -2,3 +2,5 @@ Welcome to telusko Kitchen
 
 This is Kheer.
 This is Pasta.
+
+This is Chicken Fry.
